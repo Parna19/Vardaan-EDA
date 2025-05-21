@@ -12,7 +12,7 @@ The primary objective of this project is to help the business gain deeper insigh
 This project is particularly valuable to small business owners and aspiring data analysts who want to see how EDA can be applied to real-world retail data. The notebook is hosted on Google Colab and linked directly to GitHub for easy access and collaboration.
 
 ## Video Explanation
-*Link will be added soon.*
+(https://drive.google.com/file/d/1IozaCJ7KQTE3XROEZzqPhBWMrGZXhnIp/view?usp=sharing) 
 
 ## Technologies Used
 - Google Colab
